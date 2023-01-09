@@ -1,0 +1,203 @@
+.banner{
+    position: relative;
+    background: url(img/banner/banner3.png) no-repeat;
+    background-size: 1350px 500px;
+    width: 100%;
+    height: 535px;
+}
+
+.text{
+    position: absolute;
+    text-align: right;
+    font-family: 'Poppins', sans-serif;
+    top: 0;
+    right: 0;
+    padding-top: 5%;
+    padding-right: 25px;
+}
+
+.text h1{
+    width: 525px;
+    height: 228px;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    color: #ffffff;
+}
+
+.text p{
+    width: 525px;
+    height: 78px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #ffffff;
+}
+
+
+.my-btn{
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.my_dp img{
+    height: 724px;
+    width: 570px;
+    vertical-align: middle;
+}
+
+.info-section{
+    font-family: 'Work Sans';
+}
+
+.info-section h1{
+    Weight:700;
+    font-size:40px;
+}
+
+.info-section p{
+    text-align: justify;
+    height: 104px;
+    width: 416px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+}
+
+.info-section h2{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.okicon{
+    color:#16D887;
+}
+
+.Plans-section{
+    padding-top: 20px;
+    align-items: center;
+}
+
+.plan-heading h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 20px;
+}
+
+.icon{
+    height: 270px;
+    width: 196px;
+    text-align: center;
+    font-family: 'Work Sans';
+}
+
+.icon img{
+    width: 92px;
+    height: 92px;
+    padding: 10px;
+}
+
+.icon h2{
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.icon p{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.contact-section{
+    position: relative;
+    background: url(img/banner/watch.png) no-repeat !important;
+    background-size: 1140px 300px;
+    width: 100%;
+    min-height: 300px;
+    left: 50px;
+}
+
+.call-button{
+    padding-left: 20%;
+    padding-top: 8%;
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 50%) no-repeat;
+    min-height: 300px;
+}
+
+.call-button h1{
+    font-family: 'Work Sans';
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 600;
+    width: 461px;
+}
+
+.call-button button{
+    width: 160px;
+    height: 64px;
+    font-size: 26px;
+    font-weight: 400;
+    font-family: 'Work Sans';
+    border-radius: 10px;
+}
+
+.social-icon li{
+    list-style: none;
+}
+
+.social-icon li a{
+    display: flex;
+    float: left;
+}
+
+.social-icon li a img{
+    border-radius: 50%;
+    padding: 10px;
+    width: 72px;
+    height: 72px;
+}
+
+.social-icon li a img:hover{
+    border: 2px solid lightsalmon;
+    width: 65px;
+    height: 65px;
+    background: violet;
+}
+
+.future{
+    text-align: left;
+
+}
+
+.footer-top{
+    padding-top: 20px;
+    padding-left: 50px;
+}
+
+.sub{
+    padding-top: 20px;
+    padding-left: 50px;
+}
+
+.sub-btn{
+    border-radius: 10px;
+    background-color: #16D887;
+    color: #ffffff;
+    padding: 5px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+footer {
+    margin-top: 20px;
+    font-family: 'Work Sans';
+    text-align: center;
+    font-weight: 200;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #272727;
+}
